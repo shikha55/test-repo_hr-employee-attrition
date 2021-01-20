@@ -1,7 +1,8 @@
 # HR attrition Machine Learning Solution
 
 
-![enter image description here](https://github.com/shikha55/test-repo_hr-employee-attrition/blob/main/Attrtion.png?raw=true)Details about the project 
+![enter image description here](https://github.com/shikha55/test-repo_hr-employee-attrition/blob/main/Attrtion.png?raw=true)
+
 
 Details of this project - what and how you have done 
 
